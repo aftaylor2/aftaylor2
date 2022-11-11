@@ -22,7 +22,9 @@ jobs:
           plugin_achievements_secrets: yes # Display unlocked secrets achievements
           plugin_achievements_display: compact # Use compact display
           plugin_achievements_limit: 0 # Display all unlocked achievements (no limit)
-
+          commits_authoring: aftaylor2, aftaylor2@gmail.com
+          repositories_affiliations: owner, collaborator, organization_member
+          
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -39,7 +41,7 @@ jobs:
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-          repositories_affiliations: owner, collaborator, organization_member
+
   lines:
     runs-on: ubuntu-latest
     steps:
@@ -66,7 +68,7 @@ jobs:
           user: aftaylor2
           template: classic
           base: activity, community
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          config_timezone: America/New_York
 
   iso_calender:
     runs-on: ubuntu-latest
@@ -83,7 +85,7 @@ jobs:
           user: aftaylor2
           template: classic
           base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          config_timezone: America/New_York
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -95,7 +97,7 @@ jobs:
           filename: github-habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
+          config_timezone: America/New_York # Set timezone
           user: aftaylor2
           base: ""
           template: classic
@@ -120,7 +122,7 @@ jobs:
           user: aftaylor2
           template: classic
           base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          config_timezone: America/New_York
           plugin_followup: yes
           plugin_languages: yes
 
@@ -139,4 +141,4 @@ jobs:
           user: aftaylor2
           template: classic
           base: repositories
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          config_timezone: America/New_York
