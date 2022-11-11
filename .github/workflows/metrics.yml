@@ -41,6 +41,7 @@ jobs:
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+          repositories_affiliations: owner, collaborator, organization_member
 
   lines:
     runs-on: ubuntu-latest
@@ -52,6 +53,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
+          repositories_affiliations: owner, collaborator, organization_member
 
   acti_comm:
     runs-on: ubuntu-latest
@@ -69,6 +71,7 @@ jobs:
           template: classic
           base: activity, community
           config_timezone: America/New_York
+          repositories_affiliations: owner, collaborator, organization_member
 
   iso_calender:
     runs-on: ubuntu-latest
@@ -88,6 +91,7 @@ jobs:
           config_timezone: America/New_York
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          repositories_affiliations: owner, collaborator, organization_member
 
   habits:
     runs-on: ubuntu-latest
@@ -106,6 +110,7 @@ jobs:
           plugin_habits_days: 14 # Keep only events from last 14 days
           plugin_habits_charts: yes # Display charts section
           plugin_habits_trim: yes # Trim unused hours on daily chart
+          repositories_affiliations: owner, collaborator, organization_member
 
   issue_pr_lang:
     runs-on: ubuntu-latest
@@ -125,6 +130,7 @@ jobs:
           config_timezone: America/New_York
           plugin_followup: yes
           plugin_languages: yes
+          repositories_affiliations: owner, collaborator, organization_member
 
   repositories:
     runs-on: ubuntu-latest
@@ -142,3 +148,4 @@ jobs:
           template: classic
           base: repositories
           config_timezone: America/New_York
+          repositories_affiliations: owner, collaborator, organization_member
