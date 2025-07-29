@@ -10,7 +10,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.33
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
