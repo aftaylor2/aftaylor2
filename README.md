@@ -74,7 +74,7 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### HealthCare
+### Healthcare
 
 ![AdvancedMD](https://img.shields.io/badge/-AdvancedMD-0066CC?style=flat-square)
 ![AthenaHealth](https://img.shields.io/badge/-AthenaHealth-6F2DA8?style=flat-square)
