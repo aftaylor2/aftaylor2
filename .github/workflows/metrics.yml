@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (daily)
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "2 0 * * *" }]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: { branches: ["master"] }
@@ -25,7 +25,7 @@ jobs:
           plugin_achievements_limit: 30 # 50 for (no limit)
           commits_authoring: aftaylor2, aftaylor2@gmail.com, aftaylor2@users.noreply.github.com
           repositories_affiliations: owner, collaborator
-          
+
   github-metrics:
     runs-on: ubuntu-latest
     steps:
