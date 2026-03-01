@@ -26,6 +26,12 @@
 
 ---
 
+## About Me
+
+I'm a polyglot Software engineer focused on backend systems, infrastructure, and domain-specific integrations. I started my career in **telecommunications**—building and integrating with IMS cores, SMSC platforms, eSIM provisioning, VoLTE/VoWiFi services, and carrier BSS systems. I now work in **healthcare**, creating custom solutions and integrating with EHR platforms via HL7 and FHIR.
+
+---
+
 ### AI & Machine Learning
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -99,6 +105,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenix-framework&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ![esbuild](https://img.shields.io/badge/-esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -120,13 +127,33 @@ Javascript Runtimes
 ![Google Pub/Sub](https://img.shields.io/badge/-Pub/Sub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
+### Reverse Engineering / Debugging
+
+![GDB](https://img.shields.io/badge/-GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-BF0D3E?style=flat-square)
+![IDA](https://img.shields.io/badge/-IDA-4B0082?style=flat-square)
+![QIRA](https://img.shields.io/badge/-QIRA-333333?style=flat-square)
+![strace](https://img.shields.io/badge/-strace-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
 ### Telecommunications
 
 ![5G/4G-LTE](https://img.shields.io/badge/-5G/4G--LTE-0082C9?style=flat-square)
 ![Asterisk](https://img.shields.io/badge/-Asterisk-F57A00?style=flat-square&logo=asterisk&logoColor=white)
+![BSS](https://img.shields.io/badge/-BSS-6A5ACD?style=flat-square)
+![Diameter](https://img.shields.io/badge/-Diameter-8B4513?style=flat-square)
 ![E911](https://img.shields.io/badge/-E911-FF0000?style=flat-square)
+![Entitlement](https://img.shields.io/badge/-Entitlement-4682B4?style=flat-square)
 ![eSIM](https://img.shields.io/badge/-eSIM-00B388?style=flat-square)
+![HSS](https://img.shields.io/badge/-HSS-2F4F4F?style=flat-square)
+![IMS](https://img.shields.io/badge/-IMS-483D8B?style=flat-square)
 ![IoT](https://img.shields.io/badge/-IoT-5C5C5C?style=flat-square)
+![MTAS](https://img.shields.io/badge/-MTAS-556B2F?style=flat-square)
+![RADIUS](https://img.shields.io/badge/-RADIUS-8A2BE2?style=flat-square)
+![RCS](https://img.shields.io/badge/-RCS-00897B?style=flat-square)
+![SMSC](https://img.shields.io/badge/-SMSC-708090?style=flat-square)
+![VoLTE](https://img.shields.io/badge/-VoLTE-DC143C?style=flat-square)
+![VoWiFi](https://img.shields.io/badge/-VoWiFi-1E90FF?style=flat-square)
 
 ### Testing
 
@@ -137,4 +164,3 @@ Javascript Runtimes
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftaylor2/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aftaylor2)
