@@ -75,10 +75,12 @@ I'm a polyglot software engineer focused on backend systems, infrastructure, and
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
 ### Healthcare
 
@@ -90,6 +92,7 @@ I'm a polyglot software engineer focused on backend systems, infrastructure, and
 ![FHIR](https://img.shields.io/badge/-FHIR-E34F26?style=flat-square)
 ![HIPAA](https://img.shields.io/badge/-HIPAA-2E7D32?style=flat-square)
 ![HL7](https://img.shields.io/badge/-HL7-005A9C?style=flat-square)
+![X12/EDI](https://img.shields.io/badge/-X12/EDI-4169E1?style=flat-square)
 
 ### Languages & Frameworks
 
@@ -99,10 +102,12 @@ I'm a polyglot software engineer focused on backend systems, infrastructure, and
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenix-framework&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
@@ -119,6 +124,7 @@ Javascript Runtimes
 
 ### Logging & Observability
 
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 ![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 
@@ -151,7 +157,9 @@ Javascript Runtimes
 ![MTAS](https://img.shields.io/badge/-MTAS-556B2F?style=flat-square)
 ![RADIUS](https://img.shields.io/badge/-RADIUS-8A2BE2?style=flat-square)
 ![RCS](https://img.shields.io/badge/-RCS-00897B?style=flat-square)
+![SIP](https://img.shields.io/badge/-SIP-FF6F00?style=flat-square)
 ![SMSC](https://img.shields.io/badge/-SMSC-708090?style=flat-square)
+![SS7](https://img.shields.io/badge/-SS7-8B0000?style=flat-square)
 ![VoLTE](https://img.shields.io/badge/-VoLTE-DC143C?style=flat-square)
 ![VoWiFi](https://img.shields.io/badge/-VoWiFi-1E90FF?style=flat-square)
 
