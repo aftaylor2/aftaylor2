@@ -93,17 +93,21 @@ I'm a polyglot software engineer focused on backend systems, infrastructure, and
 ![FHIR](https://img.shields.io/badge/-FHIR-E34F26?style=flat-square)
 ![HIPAA](https://img.shields.io/badge/-HIPAA-2E7D32?style=flat-square)
 ![HL7](https://img.shields.io/badge/-HL7-005A9C?style=flat-square)
+![MUMPS](https://img.shields.io/badge/-MUMPS-5C4033?style=flat-square)
 ![X12/EDI](https://img.shields.io/badge/-X12/EDI-4169E1?style=flat-square)
 
 ### Languages & Frameworks
 
+![AppleScript](https://img.shields.io/badge/-AppleScript-101010?style=flat-square&logo=apple&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 
