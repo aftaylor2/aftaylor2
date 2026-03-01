@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm a polyglot Software engineer focused on backend systems, infrastructure, and domain-specific integrations. I started my career in **telecommunications**—building and integrating with IMS cores, SMSC platforms, eSIM provisioning, VoLTE/VoWiFi services, and carrier BSS systems. I now work in **healthcare**, creating custom solutions and integrating with EHR platforms via HL7 and FHIR.
+I'm a polyglot software engineer focused on backend systems, infrastructure, and domain-specific integrations. I started my career in **telecommunications**—building and integrating with IMS cores, SMSC platforms, eSIM provisioning, VoLTE/VoWiFi services, and carrier BSS systems. I now work in **healthcare**, creating custom solutions and integrating with EHR platforms via HL7 and FHIR.
 
 ---
 
