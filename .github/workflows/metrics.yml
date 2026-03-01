@@ -15,6 +15,7 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
           user: aftaylor2
           base: achievements
           plugin_achievements: yes
@@ -35,6 +36,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
 
           # Options
           user: aftaylor2
@@ -50,6 +52,7 @@ jobs:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
           base: "repositories"
           plugin_lines: yes
           repositories_affiliations: owner, collaborator
@@ -64,6 +67,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
 
           # Options
           user: aftaylor2
@@ -82,6 +86,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
 
           # Options
           user: aftaylor2
@@ -100,6 +105,7 @@ jobs:
           filename: github-habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
           config_timezone: America/New_York # Set timezone
           user: aftaylor2
           base: ""
@@ -121,6 +127,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
 
           # Options
           user: aftaylor2
@@ -141,6 +148,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "Update ${filename} [skip ci]"
 
           # Options
           user: aftaylor2
