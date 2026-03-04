@@ -82,6 +82,7 @@ I'm a polyglot software engineer focused on backend systems, infrastructure, and
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 ### Healthcare
 
