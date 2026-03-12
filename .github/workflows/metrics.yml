@@ -41,25 +41,3 @@ jobs:
           config_order: base.header, base.activity+community, languages
           commits_authoring: aftaylor2, aftaylor2@gmail.com, aftaylor2@users.noreply.github.com
           repositories_affiliations: owner, collaborator
-
-      - name: right profile 
-        uses: stalomeow/metrics@projects-v2
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-right.svg
-
-          # Options
-          user: stalomeow
-          template: classic
-          base: ""
-          config_timezone: America/New_York
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_limit: 8
-          plugin_achievements_display: detailed
-          # plugin_stars: yes
-          # plugin_stars_limit: 2
-          config_padding: 0, 8 + 11%
-          config_order: achievements #, stars
-          commits_authoring: aftaylor2, aftaylor2@gmail.com, aftaylor2@users.noreply.github.com
-          repositories_affiliations: owner, collaborator
