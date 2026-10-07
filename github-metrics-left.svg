@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18807 Commits
+                            18815 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -148,19 +148,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 37.9mb of code in 20210 edited files across 12813 commits</small>
+                <small>estimation from 37.9mb of code in 20215 edited files across 12817 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.34337307905855" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="257.34337307905855" y="0" width="105.0242835039381" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="362.36765658299663" y="0" width="63.07536224459023" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="425.4430188275869" y="0" width="20.546093699650825" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="445.9891125272377" y="0" width="12.849343944169018" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8384564714067" y="0" width="1.0512130235677222" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.88966949497444" y="0" width="0.1103305050255695" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.3659311454076" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="257.3659311454076" y="0" width="105.01259306582341" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="362.378524211231" y="0" width="63.06834121484093" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="425.44686542607195" y="0" width="20.543806677746172" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="445.99067210381816" y="0" width="12.847913661046087" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.83858576486426" y="0" width="1.0510960111931802" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.88968177605744" y="0" width="0.11031822394258439" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -172,7 +172,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>55.94%</div>
+                                <div>55.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
